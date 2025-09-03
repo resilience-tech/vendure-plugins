@@ -3,7 +3,7 @@
 This monorepo contains multiple Vendure plugins organized as Yarn workspaces. Each plugin is designed to extend the functionality of the Vendure framework, providing various features and enhancements.
 
 ## Project Structure
-
+```
 
 ├── packages
 │   ├── plugin-example-1
@@ -11,7 +11,9 @@ This monorepo contains multiple Vendure plugins organized as Yarn workspaces. Ea
 │   └── plugin-example-3
 ├── package.json
 └── yarn.lock
+
 ```
+
 
 ## Getting Started
 

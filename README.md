@@ -1,4 +1,4 @@
-# My Vendure Monorepo
+# Vendure Plugins
 
 This monorepo contains multiple Vendure plugins organized as Yarn workspaces. Each plugin is designed to extend the functionality of the Vendure framework, providing various features and enhancements.
 
